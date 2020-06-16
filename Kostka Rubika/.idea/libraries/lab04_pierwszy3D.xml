@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lab04-pierwszy3D">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/j3dcore.jar!/" />
+      <root url="jar://$PROJECT_DIR$/j3dutils.jar!/" />
+      <root url="jar://$PROJECT_DIR$/vecmath.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../peasycam/library/peasycam.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../processing-3.5.4/core/library" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../../processing-3.5.4/core/library" recursive="false" />
+  </library>
+</component>
