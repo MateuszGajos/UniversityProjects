@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7883af42-1856-45f6-afde-137ccc2f6763" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cLoDdGwnmd62WP9ebuGgOgh2D7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lab_1_6_z_j3d_jar_dll/lab05-swiatla3D" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.13964844" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Kostka" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kostka" />
+      <module name="Kostka Rubika" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Kostka Rubika" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyCube" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyCube" />
+      <module name="Kostka Rubika" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pierwszy3D" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pierwszy3D" />
+      <module name="Kostka Rubika" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Projekt_kostka_rubkia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Projekt_kostka_rubkia" />
+      <module name="Kostka Rubika" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Kostka" />
+        <item itemvalue="Application.MyCube" />
+        <item itemvalue="Application.Projekt_kostka_rubkia" />
+        <item itemvalue="Application.Pierwszy3D" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7883af42-1856-45f6-afde-137ccc2f6763" name="Default Changelist" comment="" />
+      <created>1590317115585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590317115585</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="78" key="#Project_Structure" timestamp="1590317388407">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="320" y="78" key="#Project_Structure/0.0.1680.1010@0.0.1680.1010" timestamp="1590317388407" />
+    <state x="586" y="305" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590963317758">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="586" y="305" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1590963317758" />
+    <state x="645" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1590760036276">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="210" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1010@0.0.1680.1010" timestamp="1590760036276" />
+    <state x="637" y="374" key="DetectedRootsChooserDialog" timestamp="1590948738625">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="637" y="374" key="DetectedRootsChooserDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1590948738625" />
+    <state x="546" y="245" key="FileChooserDialogImpl" timestamp="1591019728390">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="546" y="245" key="FileChooserDialogImpl/0.0.1680.1010@0.0.1680.1010" timestamp="1591019728390" />
+    <state width="1636" height="171" key="GridCell.Tab.0.bottom" timestamp="1591019730324">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="171" key="GridCell.Tab.0.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1591019730324" />
+    <state width="1636" height="171" key="GridCell.Tab.0.center" timestamp="1591019730323">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="171" key="GridCell.Tab.0.center/0.0.1680.1010@0.0.1680.1010" timestamp="1591019730323" />
+    <state width="1636" height="171" key="GridCell.Tab.0.left" timestamp="1591019730323">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="171" key="GridCell.Tab.0.left/0.0.1680.1010@0.0.1680.1010" timestamp="1591019730323" />
+    <state width="1636" height="171" key="GridCell.Tab.0.right" timestamp="1591019730324">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="171" key="GridCell.Tab.0.right/0.0.1680.1010@0.0.1680.1010" timestamp="1591019730324" />
+    <state width="1636" height="330" key="GridCell.Tab.1.bottom" timestamp="1590949900461">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="330" key="GridCell.Tab.1.bottom/0.0.1680.1010@0.0.1680.1010" timestamp="1590949900461" />
+    <state width="1636" height="330" key="GridCell.Tab.1.center" timestamp="1590949900461">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="330" key="GridCell.Tab.1.center/0.0.1680.1010@0.0.1680.1010" timestamp="1590949900461" />
+    <state width="1636" height="330" key="GridCell.Tab.1.left" timestamp="1590949900461">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="330" key="GridCell.Tab.1.left/0.0.1680.1010@0.0.1680.1010" timestamp="1590949900461" />
+    <state width="1636" height="330" key="GridCell.Tab.1.right" timestamp="1590949900461">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1636" height="330" key="GridCell.Tab.1.right/0.0.1680.1010@0.0.1680.1010" timestamp="1590949900461" />
+    <state x="320" y="78" key="SettingsEditor" timestamp="1590948968413">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="320" y="78" key="SettingsEditor/0.0.1680.1010@0.0.1680.1010" timestamp="1590948968413" />
+    <state x="222" y="124" key="new project wizard" timestamp="1590338976955">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="222" y="124" key="new project wizard/0.0.1680.1010@0.0.1680.1010" timestamp="1590338976955" />
+    <state x="546" y="261" key="refactoring.ChangeSignatureDialog" timestamp="1591011690347">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="546" y="261" key="refactoring.ChangeSignatureDialog/0.0.1680.1010@0.0.1680.1010" timestamp="1591011690347" />
+    <state x="496" y="227" width="672" height="677" key="run.anything.popup" timestamp="1591016662999">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="496" y="227" width="672" height="677" key="run.anything.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1591016662999" />
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup" timestamp="1590762797671">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="503" y="217" width="672" height="678" key="search.everywhere.popup/0.0.1680.1010@0.0.1680.1010" timestamp="1590762797671" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/peasy/Cube.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/lab04_pierwszy3D$Main.ic" NAME="Main Coverage Results" MODIFIED="1590760801863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
